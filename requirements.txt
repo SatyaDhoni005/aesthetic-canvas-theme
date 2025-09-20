@@ -1,0 +1,16 @@
+PyMuPDF
+pdfplumber
+python-docx
+docx2txt
+spacy
+nltk
+langchain
+langgraph
+langsmith
+chromadb  # Or faiss-cpu / pinecone-client
+openai  # For GPT; add google-generativeai for Gemini, anthropic for Claude, transformers for HuggingFace
+scikit-learn  # For TF-IDF, BM25
+fuzzywuzzy
+flask  # Or fastapi with uvicorn
+sqlalchemy  # For database ORM
+psycopg2-binary  # If using PostgreSQL
